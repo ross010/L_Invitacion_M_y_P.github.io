@@ -337,8 +337,8 @@ $('body').on('click', '.btn', function(e){
 
 		$("#days").html(days + "<span>Dias</span>");
 		$("#hours").html(hours + "<span>Horas</span>");
-		$("#minutes").html(minutes + "<span>Minutos</span>");
-		$("#seconds").html(seconds + "<span>Segundos</span>");
+		$("#minutes").html(minutes + "<span>Minutos </span>");
+		$("#seconds").html(seconds + "<span> Segundos</span>");
 
 }
 
